@@ -3,14 +3,14 @@
   "kind": "inline",
   "ref": "the header logo (inline SVG in index.html)"
  },
- "source_md5": "9a59465745d2a1ad66165e9eac398290",
- "version": "de79aa3a",
+ "source_md5": "216d88958702d50810564edd6b02da14",
+ "version": "b55bba8b",
  "tile": null,
  "crop": null,
  "header": [
   "inline",
   "index.html",
-  "9a59465745d2a1ad66165e9eac398290"
+  "216d88958702d50810564edd6b02da14"
  ],
  "made": "2026-10-08"
 }
