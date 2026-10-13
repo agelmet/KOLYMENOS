@@ -1,16 +1,16 @@
 {
  "source": {
-  "kind": "inline",
-  "ref": "the header logo (inline SVG in index.html)"
+  "kind": "file",
+  "ref": "assets/img/kolymenos-mark-icon.svg"
  },
- "source_md5": "216d88958702d50810564edd6b02da14",
- "version": "b55bba8b",
+ "source_md5": "03ea1b6ad21c0538426a7522efd7505f",
+ "version": "0e7b8199",
  "tile": null,
  "crop": null,
  "header": [
   "inline",
   "index.html",
-  "216d88958702d50810564edd6b02da14"
+  "637f000743ad61971d869b171626e5f9"
  ],
- "made": "2026-10-08"
+ "made": "2026-10-13"
 }
